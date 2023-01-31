@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+}
+
+.nav-link {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  padding: 2px;
+  margin: 3px;
+}
